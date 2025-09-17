@@ -57,6 +57,23 @@ The study includes:
 ## 📂 Repository Structure
 
 ├── Matlab/ # MATLAB codes (Double_Pendulum.m, First_Conditions.m, Second_Conditions.m, Total_Energy.m)
+
 ├── ADAMS/ # ADAMS
+
 ├── Plots And Graphs/ # Simulation plots (trajectories, angles, energy)
+
 └── README.md # This file
+
+
+## 👨‍🎓 Authors  
+- Mohammad Mahdi Khademi  
+- Negar Naghavian
+- Supervised by: Dr. Majid Rajabi  
+
+Course: Engineering Dynamics  
+
+---
+
+## 📖 References  
+- Standard textbooks on nonlinear dynamics and chaos.  
+- Derived equations and MATLAB codes from course project.
