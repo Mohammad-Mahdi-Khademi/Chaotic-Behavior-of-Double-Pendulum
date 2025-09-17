@@ -1,6 +1,6 @@
 # Chaotic Behavior of Double Pendulum  
 
-📌 Project Overview  
+## 📌 Project Overview  
 This project investigates the chaotic dynamics of a double pendulum system.  
 The double pendulum is a classical nonlinear system consisting of two masses connected in series. Its equations of motion lead to chaotic behavior, where tiny variations in initial conditions result in drastically different outcomes.  
 
