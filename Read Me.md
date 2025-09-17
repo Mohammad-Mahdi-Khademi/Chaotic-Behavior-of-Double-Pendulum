@@ -48,10 +48,9 @@ The study includes:
 - Total energy of the system was conserved within acceptable tolerance.  
 
 ### Simulation Outputs  
-- [Trajectory of Masses](Plots And Graphs/MatLab/Chaotic Behavior Of Double Pendulum For First Conditions.png)  
-- [Angular Variation (\theta1, \theta2 vs. Time)](Plots And Graphs/MatLab/First Conditions For Theta1 And Theta2.png)  
-- [Total Energy vs. Time](Plots And Graphs/MatLab/Total Energy For First Conditions.png)  
-
+- ![Trajectory of Masses](Plots%20And%20Graphs/MatLab/Chaotic%20Behavior%20Of%20Double%20Pendulum%20For%20First%20Conditions.png)  
+- ![Angular Variation (θ1, θ2 vs. Time)](Plots%20And%20Graphs/MatLab/First%20Conditions%20For%20Theta1%20And%20Theta2.png)  
+- ![Total Energy vs. Time](Plots%20And%20Graphs/MatLab/Total%20Energy%20For%20First%20Conditions.png)  
 
 ---
 
